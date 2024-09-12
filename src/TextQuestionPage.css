@@ -1,0 +1,15 @@
+.text-question-page {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    max-width: 600px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    resize: vertical;
+  }
+  
